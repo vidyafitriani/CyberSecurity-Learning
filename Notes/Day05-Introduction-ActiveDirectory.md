@@ -1,11 +1,5 @@
 # Day 05 - Introduction to Active Directory
 
-## What is Active Directory?
-
-Active Directory adalah layanan identitas milik Microsoft yang digunakan untuk mengelola user, komputer, group, dan policy dalam suatu domain.
-
-Active Directory menjadi pusat autentikasi dan otorisasi di lingkungan perusahaan.
-
 ## Workgroup vs Domain
 
 | Workgroup | Domain |
